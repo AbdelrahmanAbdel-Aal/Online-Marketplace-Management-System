@@ -1,0 +1,4 @@
+﻿  Source.cpp
+D:\A College\College 3-2\Data Structure\Project\Online Marketplace Management System\Source.cpp(150,23): warning C4018: '<': signed/unsigned mismatch
+D:\A College\College 3-2\Data Structure\Project\Online Marketplace Management System\Source.cpp(187,25): warning C4018: '<': signed/unsigned mismatch
+  Online Marketplace Management System.vcxproj -> D:\A College\College 3-2\Data Structure\Project\Online Marketplace Management System\Debug\Online Marketplace Management System.exe
